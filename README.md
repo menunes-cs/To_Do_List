@@ -1,5 +1,4 @@
 # ✅ To_Do_List
-![preview do projeto](preview.gif)
 
 *[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)*
 
