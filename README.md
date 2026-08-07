@@ -34,6 +34,8 @@ Este projeto foi criado com o objetivo de praticar e aplicar conceitos fundament
 
 Ou acesse diretamente pela versão online: [https://menunes-cs.github.io/To_Do_List/](https://menunes-cs.github.io/To_Do_List/)
 
+![preview do projeto](preview.gif) 
+
 ---
 
 ## 🇺🇸 English
