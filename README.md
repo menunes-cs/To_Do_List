@@ -1,4 +1,5 @@
 # ✅ To_Do_List
+![preview do projeto](preview.gif)
 
 *[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)*
 
@@ -64,5 +65,6 @@ This project was created to practice and apply fundamental web development conce
 1. Clone this repository
 2. Open the `index.html` file in your browser
 
-Or access it directly through the live version: [https://menunes-cs.github.io/To_Do_List/](https://menunes-cs.github.io/To_Do_List/)
+Or access it directly th
+rough the live version: [https://menunes-cs.github.io/To_Do_List/](https://menunes-cs.github.io/To_Do_List/)
 ![preview do projeto](preview.gif)
